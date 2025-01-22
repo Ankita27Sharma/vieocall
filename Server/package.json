@@ -1,0 +1,10 @@
+{
+    "name": "chat-app",
+    "version": "1.0.0",
+    "description": "Chat app with Google Sign-In",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.2",
+        "express-session": "^1.17.1"
+    }
+}
